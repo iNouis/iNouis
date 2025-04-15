@@ -8,7 +8,6 @@
 <ul>
     <li> 🚀 I'm actively leveling up my skill</li>
     <li>🌱 I’m currently learning Frontend Development.</li>
-    <li> 📫 How to reach me noualharthi22@gmail.com</li>
 </ul>
     </div>
 
