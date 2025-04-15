@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Noura</h1>
 <div>
-<h3">A Software Developer interested in web development</h3>
+<h3 align="center" > <b>A Software Developer interested in web development </b> </h3>
 </div>
 <div>
 <ul>
