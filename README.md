@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Noura</h1>
 <h3">A Software Developer interested in web development</h3>
+- 🚀 I'm actively leveling up my skill set.
+🌱 I’m currently learning Frontend Development.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
