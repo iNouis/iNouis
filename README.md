@@ -1,4 +1,4 @@
-[![MasterHead](![image]([https://github.com/user-attachments/assets/9a59fdf7-222c-48d1-bc16-1435bb77249f](https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif))
+[![MasterHead](![image]([https://github.com/user-attachments/assets/9a59fdf7-222c-48d1-bc16-1435bb77249f](https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif)
 <h1 align="center">Hi 👋, I'm Noura</h1>
 <h3 align="center">A Software Developer interested in web development</h3>
 
