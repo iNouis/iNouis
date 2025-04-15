@@ -1,4 +1,4 @@
-(img src="[https://cdn.dribbble.com/users/116207...](https://64.media.tumblr.com/0fa488fe6ccfd2b65e7973159cf00a14/501b9516989ec5bd-91/s1280x1920/6b5206c3445e715d7153e41fda11a449c71a3ebf.gifv)")
+[![MasterHead](https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif)
 
 <h1 align="center">Hi 👋, I'm Noura</h1>
 <h3 align="center">A Software Developer interested in web development</h3>
