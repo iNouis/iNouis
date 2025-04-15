@@ -1,7 +1,9 @@
 [![MasterHead](https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif)
 
 <h1 align="center">Hi 👋, I'm Noura</h1>
+<div>
 <h3">A Software Developer interested in web development</h3>
+</div>
 <div>
 <ul>
     <li> 🚀 I'm actively leveling up my skill</li>
