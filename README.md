@@ -7,7 +7,7 @@
 <div>
 <ul>
     <li> 🚀 I'm actively leveling up my skill</li>
-    <li>🌱 Currently learning Frontend Development.</li>
+    <li>🌱 Currently learning Data Analytics.</li>
 </ul>
     </div>
 
