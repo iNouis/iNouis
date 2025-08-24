@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Noura</h1>
 <div>
-<h3 align="center" > <b>A Software Developer interested in technology and innovation </b> </h3>
+<h3 align="center" > <b> Information System Fresh Graduate interested in technology and innovation </b> </h3>
 </div>
 <div>
 <ul>
